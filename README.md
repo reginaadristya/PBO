@@ -8,4 +8,4 @@
 # Latihan 4
 ![Alt Text](https://github.com/reginaadristya/PBO/blob/main/WhatsApp%20Image%202021-04-23%20at%209.47.21%20PM.jpeg)
 # Tugas Tambahan Polimorphisme
-![Alt Text](https://github.com/reginaadristya/PBO/blob/main/WhatsApp%20Image%202021-04-23%20at%209.51.42%20PM.jpeg)
+![Alt Text](https://github.com/reginaadristya/PBO/blob/main/WhatsApp%20Image%202021-04-23%20at%209.56.06%20PM.jpeg)
