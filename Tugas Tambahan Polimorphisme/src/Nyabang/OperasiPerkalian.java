@@ -31,6 +31,6 @@ public class OperasiPerkalian extends OperasiBilanganAbs {
     }
     protected void tampil(){
         set_C();
-        System.out.println("Hasil perkalian a + b adalah " +get_C());
+        System.out.println("Hasil perkalian a * b adalah " +get_C());
     }
 }

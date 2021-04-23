@@ -31,6 +31,6 @@ public class OperasiPembagian extends OperasiBilanganAbs {
     }
     protected void tampil(){
         set_C();
-        System.out.println("Hasil penjumlahan a + b adalah " +get_C());
+        System.out.println("Hasil pembagian a / b adalah " +get_C());
 }
 }
